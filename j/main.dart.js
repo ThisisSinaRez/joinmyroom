@@ -115889,7 +115889,7 @@ A.aHr.prototype={
 $1(a){return new A.pz(this.a.a.c,!0,null)},
 $S:679}
 A.aHv.prototype={
-$0(){return v.G.window.open("https://thisissinarez.github.io/rrr.apk","_blank")},
+$0(){return v.G.window.open("https://thisissinarez.github.io/joinmyroom/rrr.apk","_blank")},
 $S:0}
 A.aHw.prototype={
 $0(){return this.a.xx(A.b4h(),!0)},
@@ -116393,7 +116393,7 @@ return A.m2(!0,new A.bZ(B.RL,A.fj(A.b([new A.Ls(r,220,s),B.cW,A.aX(q,s,s,s,s,A.U
 $S:690}
 A.Ls.prototype={
 N(a){var s=null,r=A.is(16),q=(A.cS(a).gbM()==="fa"?B.aa:B.a9).a?"\u0628\u0631\u0627\u06cc \u067e\u06cc\u0648\u0633\u062a\u0646 \u0627\u0633\u06a9\u0646 \u06a9\u0646":"Scan to join"
-return A.h8(s,new A.FK("https://thisissinarez.github.io/j/?c="+this.c,B.l,B.ay,this.d,q,B.abZ,B.abX,s),B.E,s,new A.dB(B.l,s,s,r,s,s,B.c_),s,s,B.Rt,s)}}
+return A.h8(s,new A.FK("https://thisissinarez.github.io/joinmyroom/j/?c="+this.c,B.l,B.ay,this.d,q,B.abZ,B.abX,s),B.E,s,new A.dB(B.l,s,s,r,s,s,B.c_),s,s,B.Rt,s)}}
 A.Ja.prototype={
 N(a){var s=null,r=A.is(16),q=A.aX(this.c,s,s,s,s,B.aiG,s,B.i),p=(A.cS(a).gbM()==="fa"?B.aa:B.a9).a?"\u06a9\u062f \u0627\u062a\u0627\u0642 \xb7 \u0628\u0631\u0627\u06cc \u06a9\u067e\u06cc \u0628\u0632\u0646":"Room code \xb7 tap to copy",o=A.U(a).ok.z
 return A.eK(A.TW(!1,r,!0,new A.bZ(B.RK,A.fj(A.b([q,B.ik,A.aX(p,s,s,s,s,o==null?s:o.kS(12),s,s)],t.p),B.X,B.Y,B.ae),s),s,!0,s,s,s,s,s,s,s,s,new A.aF0(this,a),s,s,s,s,s,s,s),s,s)}}
