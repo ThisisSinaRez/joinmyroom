@@ -1,6 +1,6 @@
 {
-    "name": "RRR",
-    "short_name": "RRR",
+    "name": "CSpotter",
+    "short_name": "CSpotter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0E0F11",
